@@ -1,0 +1,5 @@
+﻿  Game.cpp
+d:\redemption\redemption\game.cpp(271): warning C4018: '<': signed/unsigned mismatch
+d:\redemption\redemption\game.cpp(282): warning C4018: '<': signed/unsigned mismatch
+  Redemption.vcxproj -> D:\Redemption\Debug\Redemption.exe
+  Redemption.vcxproj -> D:\Redemption\Debug\Redemption.pdb (Full PDB)
